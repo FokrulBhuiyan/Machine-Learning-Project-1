@@ -1,0 +1,1 @@
+In this Project, we create a Machine learning model where it predicts who needs Psychological Treatment and not.
